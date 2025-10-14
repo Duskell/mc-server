@@ -1,0 +1,13 @@
+name = "Leashable Players"
+filename = "leashmod-1.2.2+1.21.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BKyMf6XK/versions/Z6SbvswC/leashmod-1.2.2%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "8ea7958920724d32b81778a3f2acb7563e4b890955db43669831caa34aadd60d9b8903f62e8504775e82fdc0b80b4dfe95f40fb2f4619ce5dff836baa92d2e49"
+
+[update]
+[update.modrinth]
+mod-id = "BKyMf6XK"
+version = "Z6SbvswC"

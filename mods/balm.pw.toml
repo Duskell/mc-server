@@ -1,0 +1,13 @@
+name = "Balm"
+filename = "balm-fabric-1.21.5-21.5.25.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/YixoEDEO/balm-fabric-1.21.5-21.5.25.jar"
+hash-format = "sha512"
+hash = "8f5732e4364164941d0ca1500c8bdd14058a3dc099fabdeae0a76e8abf2466259636125635f37f5b85af92a52fe12136b75ed8e8e94b70ee1f699a6429b61349"
+
+[update]
+[update.modrinth]
+mod-id = "MBAkmtvl"
+version = "YixoEDEO"

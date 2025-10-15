@@ -16,16 +16,6 @@ hash = "a9c8d9f8aa9544cbe6d304eed60961be71a8a41edffe8a1b45bfa53b5b025f72"
 metafile = true
 
 [[files]]
-file = "mods/bcss.pw.toml"
-hash = "3488ef2083cf9f34fc11623113adf6d2a95a587cd804974cd89c59b2eeceefd0"
-metafile = true
-
-[[files]]
-file = "mods/bluemap.pw.toml"
-hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
@@ -133,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/sit!.pw.toml"
 hash = "d70b48c28a35f59933619507456c09ba19442721f2bc9cc4a975ee6a82b9f7a0"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "b0a7e018095f64d3160a9b85295c33f92c5def6f4fefb87584ffdc1c6c603248"
 metafile = true
 
 [[files]]

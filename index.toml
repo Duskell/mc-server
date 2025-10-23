@@ -36,6 +36,11 @@ hash = "d574f462b237e7fda83f7fd19b17766cc797ed60b3bdb47051cb0c22d58345c4"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "e7bbad3e030af9a9d0bbc35f62ede52fff316f8bc2d67f86853a9ab338065e07"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "12fe61275734cf8d2554d5f92af20ccb22479118b36a9a56a275ad3f4b1e13fb"
 metafile = true

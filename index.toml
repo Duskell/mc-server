@@ -11,6 +11,11 @@ hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a9c8d9f8aa9544cbe6d304eed60961be71a8a41edffe8a1b45bfa53b5b025f72"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/otterlib.pw.toml"
 hash = "8d605910fda462316f3dfdb9593fdde1ed4f2a64237b169e0a6e906870533421"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "f04be730a6dde5e7e3ce302260bc1a456a4e0fd57a00755d3992f9c0daafd21d"
 metafile = true
 
 [[files]]
